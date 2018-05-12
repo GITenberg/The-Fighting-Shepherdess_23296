@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '25774'
     url: http://www.gutenberg.org/2009/agents/25774
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23296#The-Fighting-Shepherdess
 gutenberg_issued: '2007-11-03'
 gutenberg_type: Text
 identifiers:
